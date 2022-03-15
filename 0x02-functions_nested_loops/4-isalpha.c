@@ -7,7 +7,7 @@
  * Return: 1 for upper case, 0 otherwise
  */
 
-int _islower(int c)
+int _isalpha(int c)
 {
 	return ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'));
 }
