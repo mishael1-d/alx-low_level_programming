@@ -14,7 +14,7 @@ void print_line(int n)
 	}
 	else
 	{
-		int o;
+		int i;
 
 		for (i = 1; i <= n; i++)
 		{
